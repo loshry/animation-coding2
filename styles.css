@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+}
+
+.main {
+  width: 600px;
+  height: 400px;
+  padding: 10px;
+  background-color: bisque;
+}/*# sourceMappingURL=styles.css.map */
